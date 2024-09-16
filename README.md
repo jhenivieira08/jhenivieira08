@@ -6,7 +6,7 @@ Meu nome é Jheniffer Vieira
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- ### Você po entar em contato comigo 📧
+- ### Você pode entrar em contato comigo 📧
 
  jheniffer.forcolin.vieira@escola.pr.gov.br
 
